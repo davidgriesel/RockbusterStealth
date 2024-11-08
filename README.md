@@ -3,17 +3,17 @@
 ## Overview
 - Rockbuster Stealth LLC, a global movie rental company with stores around the world, is facing intense competition from streaming giants like Netflix and Amazon Prime. To remain competitive, management plans to leverage its existing movie licenses to launch an online video rental service.
 
-- To support this transition, the Business Intelligence (BI) department requires an in-depth analysis of historical data to shape the company’s 2020 strategy. This project involves uploading provided data into a relational database management system and conducting SQL-based analysis to generate data-driven insights that address key business questions outlined by the Rockbuster Stealth Management Board
+- To support this transition, the Business Intelligence (BI) department requires an in-depth analysis of historical data to shape the company’s 2020 strategy. This project involves uploading provided data into a relational database management system and conducting SQL-based analysis to generate data-driven insights that address key business questions outlined by the Rockbuster Stealth Management Board.
 
 ## Business Questions 
 - Which movies contributed the most / least to revenue gain?
-- What was the average rental duration for all videas?
+- What was the average rental duration for all videos?
 - Which countries are Rockbuster customers based in?
 - Where are customers with a high lifetime value based?
 - Do sales figures vary between geographic regions?
 
 ## Data
-- The dataset contains information on Rockbuster's film inventory, customers demographics, and transactional details such as rental history and payment records.
+- The dataset contains information on Rockbuster's film inventory, customer demographics, and transactional details such as rental history and payment records.
 
 ## Assessment Criteria
 - Write moderately complex SQL queries to address key business questions.
@@ -27,4 +27,4 @@
 - Tableau Public
 
 ## Links
-- [Tableay Public Visualisation](https://public.tableau.com/shared/KMBBM2GM3?:display_count=n&:origin=viz_share_link)
+- [Tableau Public Visualisation](https://public.tableau.com/shared/KMBBM2GM3?:display_count=n&:origin=viz_share_link)
