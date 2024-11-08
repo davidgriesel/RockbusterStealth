@@ -1,0 +1,55 @@
+-- Count films
+SELECT
+	DISTINCT film.film_id,
+	COUNT (DISTINCT film.film_id) AS number_of_films
+FROM film
+JOIN film_category ON film.film_id = film_category.film_id
+JOIN category ON film_category.category_id = category.category_id
+JOIN language ON film.language_id = language.language_id
+GROUP BY film.film_id
+ORDER BY film.film_id;
+
+-- Count languages
+SELECT 	
+	DISTINCT language.name AS languages,
+	COUNT (DISTINCT film.film_id) AS number_of_films
+FROM film
+JOIN film_category ON film.film_id = film_category.film_id
+JOIN category ON film_category.category_id = category.category_id
+JOIN language ON film.language_id = language.language_id
+GROUP BY languages
+ORDER BY languages;
+
+-- Count Release Year
+SELECT 	
+	DISTINCT film.release_year,
+	COUNT (DISTINCT film.film_id) AS number_of_films
+FROM film
+JOIN film_category ON film.film_id = film_category.film_id
+JOIN category ON film_category.category_id = category.category_id
+JOIN language ON film.language_id = language.language_id
+GROUP BY film.release_year
+ORDER BY film.release_year;
+
+
+-- Count categories
+SELECT 	
+	DISTINCT category.name AS categories,
+	COUNT (DISTINCT film.film_id) AS number_of_films
+FROM film
+JOIN film_category ON film.film_id = film_category.film_id
+JOIN category ON film_category.category_id = category.category_id
+JOIN language ON film.language_id = language.language_id
+GROUP BY categories
+ORDER BY categories;
+
+-- Count ratings
+SELECT 	
+	DISTINCT film.rating AS ratings,
+	COUNT (DISTINCT film.film_id) AS number_of_films
+FROM film
+JOIN film_category ON film.film_id = film_category.film_id
+JOIN category ON film_category.category_id = category.category_id
+JOIN language ON film.language_id = language.language_id
+GROUP BY ratings
+ORDER BY ratings;
