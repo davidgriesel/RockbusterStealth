@@ -25,7 +25,8 @@ The dataset contains information on Rockbuster's film inventory, customer demogr
 - PostgreSQL
 - Tableau Public
 - Excel
-- MS PowerPoint
+- PowerPoint
+- DbVisualizer
 
 ## Links
 [Tableau Public Visualisation](https://public.tableau.com/shared/KMBBM2GM3?:display_count=n&:origin=viz_share_link)
