@@ -16,15 +16,15 @@ To support this transition, the Business Intelligence (BI) department requires a
 The dataset contains information on Rockbuster's film inventory, customer demographics, and transactional details such as rental history and payment records.
 
 ## Skills Demonstrated
-- Write moderately complex SQL queries to address key business questions.
-- Communicate insights effectively to business managers through data visualizations and storytelling.
-- Present SQL results including outputs in Excel to technical colleagues.
-- Create a comprehensive data dictionary.
+1. Write moderately complex SQL queries to address key business questions.
+2. Communicate insights effectively to business managers through data visualizations and storytelling.
+3. Present SQL results including outputs in Excel to technical colleagues.
+4. Create a comprehensive data dictionary.
 
 ## Tools used
-- PostgreSQL
-- Excel
-- Tableau Public
+1. PostgreSQL
+2. Excel
+3. Tableau Public
 
 ## Links
 [Tableau Public Visualisation](https://public.tableau.com/shared/KMBBM2GM3?:display_count=n&:origin=viz_share_link)
