@@ -1,4 +1,4 @@
-# CareerFoundrySQLProject
+# CareerFoundrySQL
 
 Rockbuster Stealth Data Analysis
 
