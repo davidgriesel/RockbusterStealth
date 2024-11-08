@@ -1,10 +1,8 @@
 # Rockbuster Stealth Data Analysis Project
 
-# Contents
-1. Overview
-2. Links
-
 ## Overview
+
+## Objectives
 
 
 ## Links
