@@ -1,4 +1,4 @@
-# CareerFoundry - Data Analytics
+# CareerFoundry - Data Analytics Course
 ## Achievement 3
 
 ### Overview
