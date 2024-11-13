@@ -19,7 +19,7 @@ The dataset contains information on Rockbuster's film inventory, customer demogr
 ### Skills Demonstrated
 - Write moderately complex SQL queries to address key business questions.
 - Communicate insights effectively to business managers through data visualizations and storytelling.
-- Present SQL results including outputs in Excel to technical colleagues.
+- Present SQL results in Excel to technical colleagues.
 - Create a comprehensive data dictionary.
 
 ### Tools used
