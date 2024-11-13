@@ -1,3 +1,4 @@
+-- Number of customers and total payments by country
 SELECT 	
 	country.country, 
 	COUNT (DISTINCT customer.customer_id) AS number_of_customers,
