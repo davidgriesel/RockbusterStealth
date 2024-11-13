@@ -1,3 +1,4 @@
+-- Location of top 10 high value customers (Top 10 customers, in top 10 cities, in top 10 countries)
 WITH top_10_countries AS			
 		(SELECT co.country_id	
 		FROM country co	
