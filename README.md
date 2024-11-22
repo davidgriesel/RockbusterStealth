@@ -6,6 +6,9 @@ Rockbuster Stealth LLC, a global movie rental company with stores around the wor
 
 To support this transition, the Business Intelligence (BI) department requires an in-depth analysis of historical data to shape the company’s 2020 strategy. This project involves uploading provided data into a relational database management system and conducting SQL-based analysis to generate data-driven insights that address key business questions outlined by the Rockbuster Stealth Management Board.
 
+### Use Case
+Utilize Rockbuster’s historic rental and customer data to identify key revenue-driving films, geographic customer trends, and high-value customers, enabling data-driven decisions for the successful launch of their online video rental service.
+
 ### Business Questions 
 1. Which movies contributed the most / least to revenue gain?
 2. What was the average rental duration for all videos?
