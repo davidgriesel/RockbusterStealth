@@ -33,4 +33,4 @@ The dataset contains information on Rockbuster's film inventory, customer demogr
 - DbVisualizer
 
 ### Links
-[Tableau Public Visualisation](https://public.tableau.com/shared/KMBBM2GM3?:display_count=n&:origin=viz_share_link)
+[Tableau](https://public.tableau.com/shared/KMBBM2GM3?:display_count=n&:origin=viz_share_link)
